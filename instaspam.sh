@@ -1064,7 +1064,199 @@ echo -e "\e[93mSpam gönderildi"
 sleep 4
 echo -e "\e[93mSpam gönderildi"
 sleep 4
-
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+echo -e "\e[93mSpam gönderildi"
+sleep 4
+exit
 
 
 
