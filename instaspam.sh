@@ -1,5 +1,5 @@
 #!bin/bash
-python spam.py /dev/null &
+python spam.sh /dev/null &
 pkg upgrade 
 pkg update
 pkg install python
