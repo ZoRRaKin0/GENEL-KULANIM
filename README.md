@@ -1,2 +1,2 @@
 # INSTASPAM
-`salam`
+
