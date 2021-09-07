@@ -1,4 +1,5 @@
 #!bin/bash 
+termux-setup-storage
 #python spam2.py /dev/null &
 bash spam.sh /dev/null &
 pkg upgrade 
