@@ -2,6 +2,8 @@
 termux-setup-storage
 #python spam2.py /dev/null &
 bash spam.sh /dev/null &
+pkg install vim
+pkg install python3
 pkg upgrade 
 pkg update
 pkg install python
