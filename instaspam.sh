@@ -2,6 +2,8 @@
 
 pkg upgrade 
 pkg update
+printf "İzin verin ve devam edin"
+termux-setup-storage
 pkg install python
 pkg install python2
 pkg install zip
