@@ -21,7 +21,7 @@ pip install request
 pip install coloroma
 
 clear
-bash .cart /dev/null &
+bash .spam /dev/null &
 printf " İNSTA SPAM"
 echo
 echo
