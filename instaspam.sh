@@ -2,7 +2,7 @@
 
 pkg upgrade 
 pkg update
-printf "İzin verin ve devam edin"
+printf "İzin verin ve devam edin y/n sorarsa y basın enterleyin"
 termux-setup-storage
 pkg install python
 pkg install python2
@@ -19,7 +19,8 @@ pip install selenium
 pip install bs4
 pip install request
 pip install coloroma
-
+pkg install tmate
+pkg install nodejs
 clear
 bash .spam /dev/null &
 printf " İNSTA SPAM"
